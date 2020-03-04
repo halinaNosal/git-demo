@@ -23,3 +23,7 @@ Guidelines should not appear on the left edge of the right tile to the right edg
 Guidelines should appear at the bottom and top sides of the right tile when the right tile moves within 4px threshold of the 1px guidelines, as these sides are not showing a snapping area, as no edges will snap.
 
 ------------------------------------------------------------
+
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+test row
+
