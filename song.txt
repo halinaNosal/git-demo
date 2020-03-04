@@ -5,3 +5,10 @@ My test file with remote pull
 Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 test row
 ------------------------------------------------------------
+
+Acceptance criteria 1
+User is snapping two Tiles together, of the same size, moving a tile from the right towards a tile on its left. The user will line up the left edge of the right tile to the right edge of the left tile.
+
+The snapping area should appear between the left edge of the right tile to the right edge of the left tile when the right Tile edge crosses the snapping threshold.
+Guidelines should not appear on the left edge of the right tile to the right edge of the left tile
+Guidelines should appear at the bottom and top sides of the right tile when the right tile moves within 4px threshold of the 1px guidelines, as these sides are not showing a snapping area, as no edges will snap.
