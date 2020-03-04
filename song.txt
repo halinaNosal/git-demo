@@ -2,6 +2,5 @@ Hello world
 !!!!
 My test file with remote pull
 
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-test row
-------------------------------------------------------------
+
+One more row
